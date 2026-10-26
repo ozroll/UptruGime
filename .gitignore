@@ -1,0 +1,12 @@
+# Sensitive Configuration & API Keys
+config.json
+.env
+
+# Local logs and runtime data
+logs/
+__pycache__/
+*.pyc
+
+# OS generated files
+Thumbs.db
+.DS_Store

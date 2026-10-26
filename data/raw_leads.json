@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Daveyton Panel Beaters",
+        "category": "Automotive Repair",
+        "location": "Daveyton, Benoni",
+        "has_website": false,
+        "website_url": null,
+        "phone": "+27 11 555 0192"
+    },
+    {
+        "name": "Ekurhuleni Fit Gym",
+        "category": "Fitness & Health",
+        "location": "Daveyton Mall Area",
+        "has_website": true,
+        "website_url": "http://dead-link-example.co.za",
+        "phone": "+27 11 555 0144"
+    },
+    {
+        "name": "Zemed Fresh Bakery",
+        "category": "Food & Bakery",
+        "location": "Benoni Central",
+        "has_website": false,
+        "website_url": null,
+        "phone": "+27 11 555 0188"
+    }
+]
